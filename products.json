@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Earbuds",
+    "category": "Furniture",
+    "price": 353.88
+  },
+  {
+    "id": 2,
+    "name": "Wireless Earbuds",
+    "category": "Computer Accessories",
+    "price": 308.46
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Keyboard",
+    "category": "Office Supplies",
+    "price": 367.26
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Keyboard",
+    "category": "Cables & Adapters",
+    "price": 195.92
+  },
+  {
+    "id": 5,
+    "name": "USB Hub",
+    "category": "Office Supplies",
+    "price": 117.6
+  },
+  {
+    "id": 6,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 122.22
+  },
+  {
+    "id": 7,
+    "name": "Smartphone Case",
+    "category": "Storage",
+    "price": 206.56
+  },
+  {
+    "id": 8,
+    "name": "Laptop Stand",
+    "category": "Mobile Accessories",
+    "price": 457.43
+  },
+  {
+    "id": 9,
+    "name": "Cable Management",
+    "category": "Storage",
+    "price": 114.18
+  },
+  {
+    "id": 10,
+    "name": "Gaming Chair",
+    "category": "Wearables",
+    "price": 443.48
+  },
+  {
+    "id": 11,
+    "name": "Backpack Laptop",
+    "category": "Cables & Adapters",
+    "price": 80.0
+  },
+  {
+    "id": 12,
+    "name": "Wireless Mouse",
+    "category": "Mobile Accessories",
+    "price": 375.03
+  },
+  {
+    "id": 13,
+    "name": "LED Desk Lamp",
+    "category": "Furniture",
+    "price": 376.03
+  },
+  {
+    "id": 14,
+    "name": "SSD 1TB",
+    "category": "Travel",
+    "price": 205.7
+  },
+  {
+    "id": 15,
+    "name": "Desk Organizer",
+    "category": "Audio",
+    "price": 259.66
+  },
+  {
+    "id": 16,
+    "name": "Laptop Stand",
+    "category": "Electronics",
+    "price": 431.93
+  },
+  {
+    "id": 17,
+    "name": "Wireless Mouse",
+    "category": "Audio",
+    "price": 398.11
+  },
+  {
+    "id": 18,
+    "name": "SSD 1TB",
+    "category": "Travel",
+    "price": 41.12
+  },
+  {
+    "id": 19,
+    "name": "External Hard Drive",
+    "category": "Travel",
+    "price": 498.09
+  },
+  {
+    "id": 20,
+    "name": "Standing Desk",
+    "category": "Furniture",
+    "price": 485.82
+  },
+  {
+    "id": 21,
+    "name": "Phone Grip",
+    "category": "Electronics",
+    "price": 343.33
+  },
+  {
+    "id": 22,
+    "name": "USB-C Cable",
+    "category": "Office Supplies",
+    "price": 377.92
+  },
+  {
+    "id": 23,
+    "name": "Power Bank",
+    "category": "Storage",
+    "price": 64.65
+  },
+  {
+    "id": 24,
+    "name": "SSD 1TB",
+    "category": "Audio",
+    "price": 232.31
+  },
+  {
+    "id": 25,
+    "name": "Fitness Tracker",
+    "category": "Furniture",
+    "price": 486.22
+  }
+]
